@@ -1,4 +1,3 @@
-[label app.py]
 import ontologytojson
 import analyzeflow
 import getflows
